@@ -26,6 +26,7 @@ on:
       - "Dark/**"
       - "Light/**"
       - ".github/scripts/update_thumbnails.py"
+      - ".github/workflows/update_thumbnails.yml"
 
 jobs:
   update-readme-thumbnails:
