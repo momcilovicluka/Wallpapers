@@ -5,11 +5,11 @@ on:
     inputs:
       folders:
         description: "Folders to include (space-separated)"
-        required: true
+        required: false
         default: "Dark Light"
       intro:
         description: "Intro text for the README"
-        required: true
+        required: false
         default: |
           # 🖼️ Wallpaper Collection
 
@@ -18,7 +18,7 @@ on:
           \nSome are cringe 😬
       size:
         description: "Thumbnail size for images (in px)"
-        required: true
+        required: false
         default: "200"
 
   push:
