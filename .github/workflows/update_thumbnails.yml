@@ -16,6 +16,10 @@ on:
           /nWallpapers that I use in my Arch-Hyprland setup.
           /nMost are from anime ☑️
           /nSome are cringe 😬
+      size:
+        description: "Thumbnail size for images (in px)"
+        required: true
+        default: "200"
 
   push:
     paths:
@@ -40,7 +44,8 @@ jobs:
         run: |
           INTRO=$(echo -e "${{ github.event.inputs.intro || '# 🖼️ Wallpaper Collection\n\n- Wallpapers that I use in my Arch-Hyprland setup 🪟\n- Most are from anime ☑️\n- Some are cringe 😬' }}")
           FOLDERS="${{ github.event.inputs.folders || 'Dark Light' }}"
-          python .github/scripts/update_thumbnails.py "$INTRO" $FOLDERS
+          SIZE="${{ github.event.inputs.size || '200' }}"
+          python .github/scripts/update_thumbnails.py "$INTRO" "$SIZE" $FOLDERS
 
       - name: Commit & Push Changes
         run: |
