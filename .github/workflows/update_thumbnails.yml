@@ -13,9 +13,9 @@ on:
         default: |
           # 🖼️ Wallpaper Collection
 
-          /nWallpapers that I use in my Arch-Hyprland setup.
-          /nMost are from anime ☑️
-          /nSome are cringe 😬
+          \nWallpapers that I use in my Arch-Hyprland setup.
+          \nMost are from anime ☑️
+          \nSome are cringe 😬
       size:
         description: "Thumbnail size for images (in px)"
         required: true
