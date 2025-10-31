@@ -9,6 +9,7 @@
 <a href="Dark/alpha.png"><img src="Dark/alpha.png" alt="alpha.png" width="200"/></a>
 <a href="Dark/arch-chan.png"><img src="Dark/arch-chan.png" alt="arch-chan.png" width="200"/></a>
 <a href="Dark/arch-girl.png"><img src="Dark/arch-girl.png" alt="arch-girl.png" width="200"/></a>
+<a href="Dark/arch-windows.png"><img src="Dark/arch-windows.png" alt="arch-windows.png" width="200"/></a>
 <a href="Dark/asuka.jpg"><img src="Dark/asuka.jpg" alt="asuka.jpg" width="200"/></a>
 <a href="Dark/chika-catgirl.jpg"><img src="Dark/chika-catgirl.jpg" alt="chika-catgirl.jpg" width="200"/></a>
 <a href="Dark/city-scape.gif"><img src="Dark/city-scape.gif" alt="city-scape.gif" width="200"/></a>
@@ -42,6 +43,7 @@
 <a href="Dark/mitsuha-string.jpg"><img src="Dark/mitsuha-string.jpg" alt="mitsuha-string.jpg" width="200"/></a>
 <a href="Dark/nazuna-headtilt.jpg"><img src="Dark/nazuna-headtilt.jpg" alt="nazuna-headtilt.jpg" width="200"/></a>
 <a href="Dark/nazuna-middle.jpg"><img src="Dark/nazuna-middle.jpg" alt="nazuna-middle.jpg" width="200"/></a>
+<a href="Dark/onlyfans.png"><img src="Dark/onlyfans.png" alt="onlyfans.png" width="200"/></a>
 <a href="Dark/prime-access-controll.jpg"><img src="Dark/prime-access-controll.jpg" alt="prime-access-controll.jpg" width="200"/></a>
 <a href="Dark/prime-aegis-pointing.png"><img src="Dark/prime-aegis-pointing.png" alt="prime-aegis-pointing.png" width="200"/></a>
 <a href="Dark/prime-charging.png"><img src="Dark/prime-charging.png" alt="prime-charging.png" width="200"/></a>
